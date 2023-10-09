@@ -103,3 +103,9 @@
     text-align: center;
     background-position: center;
 }
+
+.criadores {
+    background: linear-gradient(to right, #e8eef1cc, #87CEEB);
+    text-align: center;
+    padding: 100px 0;
+}
